@@ -202,7 +202,7 @@ function card(v){
 function viewHome(){
   setHead(LIBRARY.title, "", false);
   const hero = el("div", { class:"hero" });
-  const heroSrc = "posters/hero.jpg";           // ← put your own image at this path
+  const heroSrc = "posters/hero.jpeg";           // ← put your own image at this path
   hero.innerHTML = `<img src="${heroSrc}" alt="" loading="eager">`;
   hero.querySelector("img").onerror = () => { hero.innerHTML = heroArt(); }; // falls back if the file isn't found yet
 
