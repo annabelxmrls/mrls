@@ -204,7 +204,10 @@ function viewHome(){
   const hero = el("div", { class:"hero" });
   const heroSrc = "posters/hero.jpeg";           // ← put your own image at this path
   hero.innerHTML = `<img src="${heroSrc}" alt="" loading="eager">`;
-  hero.querySelector("img").onerror = () => { hero.innerHTML = heroArt(); }; // falls back if the file isn't found yet
+  hero.querySelector("img").onerror = () => {
+    console.warn(`Hero image failed to load from "${heroSrc}". Check the file exists at that path, the name/extension match exactly (case-sensitive), and Live Server is running from the project's root folder.`);
+    hero.innerHTML = heroArt();
+  };
 
   const chips = el("div", { class:"years" });
   years.forEach(y => {
