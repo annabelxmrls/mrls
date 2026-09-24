@@ -24,58 +24,58 @@ const LIBRARY = {
 
     { id:"magimisa-2005", title:"Magi and Made's First Communion", date:"2005-02-05", duration:"0:06:22", src:"https://youtu.be/whi4iNQqHHY", note:"" },
 
-    { id:"magibday-2005", title:"Magi's 9th Birthday", date:"2005-03-11", duration:"0:11:55", src:" ", note:"" },
+    { id:"magibday-2005", title:"Magi's 9th Birthday", date:"2005-03-11", duration:"0:11:55", src:"https://youtu.be/ywqjbsYh_gw", note:"" },
 
-    { id:"susibday-2005", title:"Susi's 1st Birthday", date:"2005-01-10", duration:"0:13:23", src:" ", note:"" },
+    { id:"susibday-2005", title:"Susi's 1st Birthday", date:"2005-01-10", duration:"0:13:23", src:"https://youtu.be/L4k1Pvz7jxM", note:"" },
 
-    { id:"susimoments01-2005", title:"Susi Recuerdos Pt.1", date:"2005-01-23", duration:"0:29:50", src:" ", note:"" },
+    { id:"susimoments01-2005", title:"Susi Recuerdos Pt.1", date:"2005-01-23", duration:"0:29:50", src:"https://youtu.be/-2l2H7gnl3o", note:"" },
 
-    { id:"susimoments02-2005", title:"Susi Recuerdos Pt.2", date:"2005-03-14", duration:"0:19:04", src:" ", note:"" },
+    { id:"susimoments02-2005", title:"Susi Recuerdos Pt.2", date:"2005-03-14", duration:"0:19:04", src:"https://youtu.be/jiuNVA_GNh8", note:"" },
 
-    { id:"susimoments03-2005", title:"Susi Starts Walking", date:"2005-03-09", duration:"0:12:22", src:" ", note:"" },
+    { id:"susimoments03-2005", title:"Susi Starts Walking", date:"2005-03-09", duration:"0:12:22", src:"https://youtu.be/DvMhZ0Emnpo", note:"" },
 
     
     /* 2006 */
 
-    { id:"disney-2006", title:"Susi, Magi, and Junior at Disneyland", date:"2006-04-15", duration:"0:23:21", src:" ", note:"Tape was a bit damaged. Sorry for the quality :(" },
+    { id:"disney-2006", title:"Susi, Magi, and Junior at Disneyland", date:"2006-04-15", duration:"0:23:21", src:"https://youtu.be/5jjBKFJUMmA", note:"Tape was a bit damaged. Sorry for the quality :(" },
 
-    { id:"magibday-2006", title:"Magi's 10th Birthday and Recuerdos", date:"2006-03-11", duration:"0:15:27", src:" ", note:"" },
+    { id:"magibday-2006", title:"Magi's 10th Birthday and Recuerdos", date:"2006-03-11", duration:"0:15:27", src:"https://youtu.be/T31zCmvA9TI", note:"" },
 
-    { id:"magivlog-2006", title:"Magi's Vlog", date:"2006-05-22", duration:"0:06:31", src:" ", note:"" },
+    { id:"magivlog-2006", title:"Magi's Vlog", date:"2006-05-22", duration:"0:06:31", src:"https://youtu.be/b8UGDI0ka9Y", note:"" },
 
-    { id:"mexico01-2006", title:"Mexico in Summer Pt.1", date:"2006-06-27", duration:"1:33:20", src:" ", note:"" },
+    { id:"mexico01-2006", title:"Mexico in Summer Pt.1", date:"2006-06-27", duration:"1:33:20", src:"https://youtu.be/lNFZ-hKWEA4", note:"" },
 
-    { id:"mexico02-2006", title:"Mexico in Summer Pt.2", date:"2006-06-29", duration:"1:33:21", src:" ", note:"" },
+    { id:"mexico02-2006", title:"Mexico in Summer Pt.2", date:"2006-06-29", duration:"1:33:21", src:"https://youtu.be/PgqKEHDUhpY", note:"" },
 
-    { id:"mexico03-2006", title:"Mexico in Summer Pt.3", date:"2006-07-01", duration:"1:33:09", src:" ", note:"" },
+    { id:"mexico03-2006", title:"Mexico in Summer Pt.3", date:"2006-07-01", duration:"1:33:09", src:"https://youtu.be/p6XxsuDQgfo", note:"" },
 
-    { id:"mexico04-2006", title:"Mexico in Summer Pt.4", date:"2006-07-06", duration:"1:33:15", src:" ", note:"" },
+    { id:"mexico04-2006", title:"Mexico in Summer Pt.4", date:"2006-07-06", duration:"1:33:15", src:"https://youtu.be/eIh5Cbysg6Y", note:"" },
 
-    { id:"parade-2006", title:"Los Banos May Day Parade", date:"2006-05-06", duration:"0:41:28", src:" ", note:"" },
+    { id:"parade-2006", title:"Los Banos May Day Parade", date:"2006-05-06", duration:"0:41:28", src:"https://youtu.be/QzHF6QBnm_c", note:"" },
 
-    { id:"recuerdos-2006", title:"Susi, Magi, and Junior Recuerdos", date:"2006-04-16", duration:"0:17:56", src:" ", note:"" },
+    { id:"recuerdos-2006", title:"Susi, Magi, and Junior Recuerdos", date:"2006-04-16", duration:"0:17:56", src:"https://youtu.be/HdmOEDgIp7I", note:"" },
 
-    { id:"mexico05-2006", title:"Mexico in December", date:"2006-12-29", duration:"1:33:02", src:" ", note:"" },
+    { id:"mexico05-2006", title:"Mexico in December", date:"2006-12-29", duration:"1:33:02", src:"https://youtu.be/p092RaB9WEI", note:"" },
 
     /* 2007 */
 
-    { id:"mexico01-2007", title:"Mexico in December Pt.1", date:"2007-12-22", duration:"0:28:01", src:" ", note:"" },
+    { id:"mexico01-2007", title:"Mexico in December Pt.1", date:"2007-12-22", duration:"0:28:01", src:"https://youtu.be/NB-66qMWo5c", note:"" },
 
-    { id:"mexico02-2007", title:"Mexico in December Pt.2", date:"2007-12-25", duration:"1:34:40", src:" ", note:"" },
+    { id:"mexico02-2007", title:"Mexico in December Pt.2", date:"2007-12-25", duration:"1:34:40", src:"https://youtu.be/oviROjb9QuA", note:"" },
 
-    { id:"mexico03-2007", title:"Mexico in December Pt.3", date:"2007-12-29", duration:"1:33:18", src:" ", note:"" },
+    { id:"mexico03-2007", title:"Mexico in December Pt.3", date:"2007-12-29", duration:"1:33:18", src:"https://youtu.be/rD8IVFwOEE0", note:"" },
 
-    { id:"mexico04-2007", title:"Mexico in December Pt.4", date:"2007-12-31", duration:"1:32:51", src:" ", note:"" },
+    { id:"mexico04-2007", title:"Mexico in December Pt.4", date:"2007-12-31", duration:"1:32:51", src:"https://youtu.be/4rnk5v9OggI", note:"" },
 
-    { id:"susibday-2007", title:"Susi's 3rd Birthday", date:"2007-01-27", duration:"0:21:27", src:" ", note:"" },
+    { id:"susibday-2007", title:"Susi's 3rd Birthday", date:"2007-01-27", duration:"0:21:27", src:"https://youtu.be/aNh23Np-Eac", note:"" },
 
     /* 2008 */
 
-    { id:"juniorgrad-2008", title:"Junior's Graduation", date:"2008-05-23", duration:"0:15:39", src:" ", note:"" },
+    { id:"juniorgrad-2008", title:"Junior's Graduation", date:"2008-05-23", duration:"0:15:39", src:"https://youtu.be/_8B9qIlhZVM", note:"" },
 
-    { id:"mexico-2008", title:"Mexico in January", date:"2008-01-07", duration:"1:31:27", src:" ", note:"" },
+    { id:"mexico-2008", title:"Mexico in January", date:"2008-01-07", duration:"1:31:27", src:"https://youtu.be/QAacRY9jqr8", note:"" },
 
-    { id:"susibday-2008", title:"Susi's 4th Birthday", date:"2008-01-10", duration:"0:01:30", src:" ", note:"" },
+    { id:"susibday-2008", title:"Susi's 4th Birthday", date:"2008-01-10", duration:"0:01:30", src:"https://youtu.be/ZZWjKcog4_s", note:"" },
 
     /* 2009 */
 
@@ -83,14 +83,14 @@ const LIBRARY = {
 
     { id:"christmas02-2009", title:"Christmas at Tio Mayus's House Pt.2", date:"2009-12-24", duration:"0:57:42", src:"https://youtu.be/Gev1t43Hq3E", note:"" },
 
-    { id:"folkorico-2009", title:"Magi, Susi, and Made Dancing Folkorico", date:"2009-12-13", duration:"0:12:57", src:" ", note:"" },
+    { id:"folkorico-2009", title:"Magi, Susi, and Made Dancing Folkorico", date:"2009-12-13", duration:"0:12:57", src:"https://youtu.be/Bfy-mRaVwd8", note:"" },
 
-    { id:"quince-2009", title:"Junior as a Chambelan", date:"2009-05-27", duration:"0:25:22", src:" ", note:"" },
+    { id:"quince-2009", title:"Junior as a Chambelan", date:"2009-05-27", duration:"0:25:22", src:"https://youtu.be/3_nNaADP1RA", note:"" },
 
-    { id:"mexico01-2009", title:"Mexico in Summer Pt.1", date:"2006-06-24", duration:"0:24:57", src:" ", note:"" },
+    { id:"mexico01-2009", title:"Mexico in Summer Pt.1", date:"2006-06-24", duration:"0:24:57", src:"https://youtu.be/qEKPNvymdLI", note:"" },
 
-    { id:"mexico02-2009", title:"Mexico in Summer Pt.2", date:"2006-06-27", duration:"1:34:57", src:" ", note:"" },
+    { id:"mexico02-2009", title:"Mexico in Summer Pt.2", date:"2006-06-27", duration:"1:34:57", src:"https://youtu.be/_N52-a6TpgE", note:"" },
 
-    { id:"mexico03-2009", title:"Mexico in Summer Pt.3", date:"2006-07-10", duration:"0:24:57", src:" ", note:"" },
+    { id:"mexico03-2009", title:"Mexico in Summer Pt.3", date:"2006-07-10", duration:"0:24:57", src:"https://youtu.be/mku6Af05X_0", note:"" },
   ]
 };
