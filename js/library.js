@@ -16,6 +16,10 @@ const LIBRARY = {
 
     { id:"marcosbday-1999", title:"Marcos' 1st Birthday", date:"1999-06-19", duration:"18:41", src:"https://youtu.be/5a0zlfiPSF8", note:"" },
 
+    { id:"marcos-1999", title:"Marcos", date:"1999-08-06", duration:"11:21", src:"https://youtu.be/Q6BHZRc023Q", note:"" },
+
+    { id:"boda-1999", title:"Boda De Catalina Y Samuel", date:"1999-09-04", duration:"14:48", src:"https://youtu.be/2fpaoosTna8", note:"" },
+    
     /* 2000 */
 
 
@@ -36,6 +40,12 @@ const LIBRARY = {
     { id:"jackiebautismo-2000", title:"Jackie's Bautismo", date:"2000-09-03", duration:"30:49", src:"https://youtu.be/NJK782iNDn8?si=9iMZ_wYe46PyeEG1", note:"" },
 
     { id:"idaho2-2000", title:"Familia Tapia en Idaho Pt. 1", date:"2000-09-03", duration:"26:48", src:"https://youtu.be/Uq1dFpux5CA?si=Ga-x-b3eHgZ3BL60", note:"" },
+
+    { id:"boda-2000", title:"Boda de Rosa y Jose", date:"2000-11-18", duration:"25:34", src:"https://youtu.be/JApX-XBrj3Y", note:"" },
+
+    { id:"halloween-2000", title:"Marcos & Jackie's Halloween", date:"2000-10-31", duration:"4:49", src:"https://youtu.be/Q4kV9HVIiyo", note:"" },
+
+    { id:"marcosbday-2000", title:"Marcos's 2nd Birthday", date:"2000-06-22", duration:"30:17", src:"https://youtu.be/eCphOxFqJKo", note:"" },
 
     /* 2001 */
 
