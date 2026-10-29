@@ -158,7 +158,7 @@ const LIBRARY = {
 
     { id:"susimoments03-2005", title:"Susi Starts Walking", date:"2005-03-09", duration:"12:22", src:"https://youtu.be/DvMhZ0Emnpo", note:"" },
 
-    { id:"annabelbday-2005", title:"Annabel's 1st Birthday", date:"2005-03-24", duration:"21:18", src:"https://youtu.be/onQVPbVM6vY", note:"" },
+    { id:"annabelbday-2005", title:"Annabel's 1st Birthday & Starts Walking", date:"2005-03-24", duration:"21:18", src:"https://youtu.be/onQVPbVM6vY", note:"" },
 
     { id:"annabelbautismo-2005", title:"Annabel's Bautismo", date:"2005-05-21", duration:"42:14", src:"https://youtu.be/-eglyWy1BII", note:"" },
 
